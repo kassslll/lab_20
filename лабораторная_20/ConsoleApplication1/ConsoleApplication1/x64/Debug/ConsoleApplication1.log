@@ -1,0 +1,15 @@
+﻿  lab_20.c
+D:\Учёба\1 курс\Основы алгоримизации и программирование (Власенко)\лабораторная_20\ConsoleApplication1\ConsoleApplication1\lab_20.c(71,26): warning C4098: start_programm: функция типа "void", возвращающая значение
+D:\Учёба\1 курс\Основы алгоримизации и программирование (Власенко)\лабораторная_20\ConsoleApplication1\ConsoleApplication1\lab_20.c(75,26): warning C4098: start_programm: функция типа "void", возвращающая значение
+D:\Учёба\1 курс\Основы алгоримизации и программирование (Власенко)\лабораторная_20\ConsoleApplication1\ConsoleApplication1\lab_20.c(79,26): warning C4098: start_programm: функция типа "void", возвращающая значение
+D:\Учёба\1 курс\Основы алгоримизации и программирование (Власенко)\лабораторная_20\ConsoleApplication1\ConsoleApplication1\lab_20.c(83,26): warning C4098: start_programm: функция типа "void", возвращающая значение
+D:\Учёба\1 курс\Основы алгоримизации и программирование (Власенко)\лабораторная_20\ConsoleApplication1\ConsoleApplication1\lab_20.c(87,26): warning C4098: start_programm: функция типа "void", возвращающая значение
+D:\Учёба\1 курс\Основы алгоримизации и программирование (Власенко)\лабораторная_20\ConsoleApplication1\ConsoleApplication1\lab_20.c(91,26): warning C4098: start_programm: функция типа "void", возвращающая значение
+D:\Учёба\1 курс\Основы алгоримизации и программирование (Власенко)\лабораторная_20\ConsoleApplication1\ConsoleApplication1\lab_20.c(95,26): warning C4098: start_programm: функция типа "void", возвращающая значение
+D:\Учёба\1 курс\Основы алгоримизации и программирование (Власенко)\лабораторная_20\ConsoleApplication1\ConsoleApplication1\lab_20.c(99,26): warning C4098: start_programm: функция типа "void", возвращающая значение
+D:\Учёба\1 курс\Основы алгоримизации и программирование (Власенко)\лабораторная_20\ConsoleApplication1\ConsoleApplication1\lab_20.c(103,26): warning C4098: start_programm: функция типа "void", возвращающая значение
+D:\Учёба\1 курс\Основы алгоримизации и программирование (Власенко)\лабораторная_20\ConsoleApplication1\ConsoleApplication1\lab_20.c(107,26): warning C4098: start_programm: функция типа "void", возвращающая значение
+D:\Учёба\1 курс\Основы алгоримизации и программирование (Власенко)\лабораторная_20\ConsoleApplication1\ConsoleApplication1\lab_20.c(111,26): warning C4098: start_programm: функция типа "void", возвращающая значение
+D:\Учёба\1 курс\Основы алгоримизации и программирование (Власенко)\лабораторная_20\ConsoleApplication1\ConsoleApplication1\lab_20.c(115,26): warning C4098: start_programm: функция типа "void", возвращающая значение
+D:\Учёба\1 курс\Основы алгоримизации и программирование (Власенко)\лабораторная_20\ConsoleApplication1\ConsoleApplication1\lab_20.c(121,26): warning C4098: start_programm: функция типа "void", возвращающая значение
+  ConsoleApplication1.vcxproj -> D:\Учёба\1 курс\Основы алгоримизации и программирование (Власенко)\лабораторная_20\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
